@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-    cout << 10 + 11 << "\n";
+    cout << 500 + 300 << "\n";
 }
